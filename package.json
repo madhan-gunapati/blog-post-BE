@@ -1,0 +1,22 @@
+{
+  "name": "blog-post-be",
+  "version": "1.0.0",
+  "description": "this is a backend prjocet for the blog-post project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhan-gunapati/blog-post-BE.git"
+  },
+  "author": "madhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhan-gunapati/blog-post-BE/issues"
+  },
+  "homepage": "https://github.com/madhan-gunapati/blog-post-BE#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
